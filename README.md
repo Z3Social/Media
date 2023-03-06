@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NexifyHub/Media/blob/main/Logo/Banner.png?raw=true" width="50%">
+</p>
+
 # NexifyHub - Media
 This repository stores the media resources used for NexifyHub.
 
