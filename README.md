@@ -3,7 +3,7 @@
 </p>
 
 # NexifyHub - Media
-This repository stores the media resources used for NexifyHub.
+This repository contains the media resources used for NexifyHub.
 
 ## Resources
 | <img src="https://github.com/NexifyHub/Media/blob/main/Logo/Banner.png?raw=true" width="50%"> | <img src="https://github.com/NexifyHub/Media/blob/main/Logo/Banner-Transparent.png?raw=true" width="50%"> |
