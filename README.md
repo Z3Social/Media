@@ -23,9 +23,9 @@ This repository contains the media resources used for Z3 Social.
 | Profile (PNG) |
 
 ### Icon
-| <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.png?raw=true" width="20%"> | <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.svg?raw=true" width="20%"> |
-|:---:|:---:|
-| Icon (PNG) | Icon (SVG) |
+| <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.png?raw=true" width="50%"> |
+|:---:|
+| Icon (PNG / SVG) |
 
 ## Fonts
 The primary typography resources used for branding:
