@@ -23,7 +23,7 @@ This repository contains the media resources used for Z3 Social.
 | Profile (PNG) |
 
 ### Icon
-| <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.png?raw=true" width="20%"> | <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.svg?raw=true" width="20%"> |
+| <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.png?raw=true" width="20%"> | <img src="https://github.com/Z3Social/Media/blob/main/Logo/Icon/Icon.svg?raw=true" width="21%"> |
 |:---:|:---:|
 | Icon (PNG) | Icon (SVG) |
 
